@@ -1,2 +1,2 @@
 # hello-world
-a hello world thing
+send help please
